@@ -21,5 +21,3 @@ Para adicionar um valor , faça uma solicitação POST usando o seguinte formato
 {
   "valor": 10.5
 }
-
-### Obter Resultado
